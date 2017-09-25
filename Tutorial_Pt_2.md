@@ -2,6 +2,8 @@
 
 ### this page will hold all about the ui
 
+First, <span class="lessonGoal" id="goal_1">load the network 'animals'</span>, and watch what changes in the UI.
+
 *text goes here*
 
 1. test
