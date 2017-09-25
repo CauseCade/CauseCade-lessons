@@ -2,7 +2,7 @@
 
 ### this page will hold all about the ui
 
-First, <span class="lessonGoal" id="goal_1">load the network 'animals'</span>, and watch what changes in the UI.
+First, <span class="lessonGoal" id="goal_1">load the network 'animals'</span>, and watch what changes in the UI. Next (or before), try <span class="lessonGoal" id="goal_2">adding a new node</span>.
 
 *text goes here*
 
