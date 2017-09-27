@@ -1,4 +1,4 @@
-### Let's talk General UI
+### Let's talk General Layout
 *5 minute read*
 #### layout
 Causecade can be divided up into four general regions. 
