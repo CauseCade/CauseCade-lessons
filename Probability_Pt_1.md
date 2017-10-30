@@ -2,7 +2,7 @@
 
 *this lesson is under construction*
 
-*For this lesson, I recommend viewing in: <a href="https://nemoandrea.github.io/CauseCade-lessons-deploy/" target="_blank">FullScreen Lesson</a>. Lessons that do not specify this should be viewed in CauseCade.*
+<span class="info_statement_external">*For this lesson, I recommend viewing in: <a href="https://nemoandrea.github.io/CauseCade-lessons-deploy/" target="_blank">FullScreen Lesson</a>. Lessons that do not specify this should be viewed in CauseCade.*</span>
 
 #### Sample Spaces
 
