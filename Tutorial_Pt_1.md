@@ -31,4 +31,4 @@ This region (opposite the **variable viewer**) will hold various menus, dependin
 
 #### Now Visually
 
-<img src="https://static.planetminecraft.com/files/resource_media/screenshot/1529/colourtv9142868.jpg" height="200" width="200">
+<img src="https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/img/Screenshot%20(103).png" height="200" width="200">
