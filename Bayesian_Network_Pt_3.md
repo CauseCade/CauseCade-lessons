@@ -2,13 +2,15 @@
 
 #### upward propagation
 
-Last lesson
+Last lesson we look at downward propagation of evidence. This time we will look at upward propagation. With upward propagation we mean 
+evidence (e.g. an observation) changing the probabilities of the nodes that are upstream (i.e. have a path towards this node). 
+Naturally, this is no different from the downstream propagation case (for 2 nodes) as in the previous lesson. The difference lies in the 
+fact that we will have to use bayes rule in this case. Great, so we finally see Bayes' rule come into play. 
 
-
-
-
-
-
+Why do we have to use Bayes' rule in this case is because we do not have the CPD for the upstream case. That is, we know P(B|A),
+but not P(A|B) (we have specified this in the network at the start - we set as convention we specify the CDP for the downstream case).
+If we know P(A|B) we can just use the law of total probability to compute P(A) of course. So, let's use Bayes Rule to compute P(A|B)!
+Using the general form: **P(A|B)=P(B|A) * P(A) / P(B)** and from that finding the specifics for this problem:
 
 P(A=1|B0)=P(B=0|A1) * P(A1) / P(B0)
 
@@ -30,4 +32,4 @@ We can now do:
 - upward propagation
 - set and change priors
 
-But, what we worked with so far wasn't much of a network - in fact it was just two nodes. In the next section we will have a look at larger networks, and the complications and uses that brings to the table.
+But, what we worked with so far wasn't much of a network - in fact it was just two nodes. In the next section we will have a look at larger networks, and the complications and uses that brings to the table. 
