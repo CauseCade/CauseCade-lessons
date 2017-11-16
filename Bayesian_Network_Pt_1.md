@@ -1,11 +1,5 @@
 *this lesson is not complete yet*
 
-#### course intro
-
-In the previous course, we derived Bayes' rules for general random variables. In this course, we will be putting this 
-rule to work in a network form, building up from simple beginnings. Along the way, we shall put particular emphasis on 
-the implications and consequences of the formulas that we will use. But that's enough talking, let's get to the material. 
-
 #### From humble beginnings
 
 To start our journey, we will lay out the simplest network we can imagine: the two random variable network (save for the 1 
