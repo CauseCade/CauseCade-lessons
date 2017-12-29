@@ -43,4 +43,4 @@ quick way to navigate the network, and contains no properties of the node. Click
 node selection to that node, which means the overview component will then display info about that node. This is completely
 equivalent to clicking that node in the network itself.
 
-With the very Basics out of the way, let's take a look at how Bayes' rule comes into play.
+With the very Basics out of the way, let's take our steps into conditional probabilities.
