@@ -24,7 +24,7 @@ They are two different views on statistics, and are rather interesting to read u
 
 Fundamentally, bayesian network chose to represent uncertainty in the framework of probability. There are other ways to model uncertainty,
 but bayesian networks chose to do this with the system that we are familiar with. 
------
+<(missing lines)>
 
 
 In the previous course, we derived Bayes' rules for general random variables. In this course, we will be putting this 
