@@ -52,4 +52,4 @@ connection means for independence to determine the indepence of any two pairs of
 
 So we have seen that there are only 3 types of connections we can make in a causal network of this type, and with this we can
 represent anyacyclic causal relationship of as many random variables/events that we like. In the next lesson we will look at
-the Converging andPass-Through connection in greater detail.
+the Diverging and Pass-Through connection in greater detail.
