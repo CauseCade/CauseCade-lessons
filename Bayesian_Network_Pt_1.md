@@ -6,7 +6,7 @@ To start our journey, we will lay out the simplest network we can imagine: the t
 random variable case - but it should be obvious we cannot use Bayes' rule in this case!).
 Firstly, load up the example network for this lesson. As you can see, the network is a simple as it gets; just 2 nodes and a
 single link connecting them. For now, I have called them node A and node B, to avoid any semantic or intuitive problems. The
-abstract nature of the names will hopefully help you focus on the concept behind it. A little side note: in probibalistic
+abstract nature of the names will hopefully help you focus on the concept behind it. A little side note: in probabilistic
 terms: a node in the network represents a random variable, and a link means these random variables are not independent. 
 
 Let's tackle a question that may have arisen by now: in our derivation of Bayes' rule, we did not specify a 'directionality' of 
