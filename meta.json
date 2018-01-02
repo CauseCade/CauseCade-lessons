@@ -22,7 +22,7 @@
 			"description": "Learning to manipulate individual nodes",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Tutorial_Pt_3.md"
 		}],
-		"networkUrlList": ["https://github.com/CauseCade/CauseCade-networks/blob/master/bayes_2.json", "https://github.com/CauseCade/CauseCade-networks/blob/master/bayes_1.json"],
+		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_1.json", "https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_2.json"],
 		"description": null,
 		"category": null
 	}, {
