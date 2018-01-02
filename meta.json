@@ -23,6 +23,7 @@
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Tutorial_Pt_3.md"
 		}],
 		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_1.json", "https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_2.json"],
+		"networkNameList": ["test1", "test2"],
 		"description": null,
 		"category": null
 	}, {
