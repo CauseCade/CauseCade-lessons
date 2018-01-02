@@ -27,8 +27,8 @@ we noticed that for divergent and pass-through connections evidence:
  
  #### D separation
  
- {...}
+ As mentioned above, we can construct **any** network from these three basic causal relationship types. This means that we can easily determine whether two random variables are independent, given the set of observations, provided we have the network structure. (keep in mind the network structure is just a *representation* of the underlying dependence relationship of the random variables). 
  
- #### An optional discussion 
- 
- why cant we just flip the order? {...}
+Next lesson, we will get back to our probability formalism and actually put the qualitative arguements made here into numbers.
+Doing so will enable us to describe the concepts mentioned here in a quantitative manner, and if you understood everything up
+to now, putting in the numbers should be a breeze.
