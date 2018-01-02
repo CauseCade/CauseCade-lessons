@@ -74,44 +74,44 @@
 			"description": "upward propagation in a 2 node system",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_3.md"
 		}, {
-			"name": "Basic Bayes 3",
-			"dateCreated": "11-10-2017",
+			"name": "More Nodes",
+			"dateCreated": "27-12-2017",
 			"dateUpdated": null,
-			"description": "upward propagation in a 2 node system",
+			"description": "More nodes & Independence and their relationships",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_4.md",
 			"lessonNetworkIndices": [3]
 		}, {
-			"name": "Basic Bayes 3",
-			"dateCreated": "11-10-2017",
+			"name": "Causal Relationships",
+			"dateCreated": "28-12-2017",
 			"dateUpdated": null,
-			"description": "upward propagation in a 2 node system",
+			"description": "Understanding the types of relationships between random variables",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_5.md",
 			"lessonNetworkIndices": [6]
 		}, {
-			"name": "Basic Bayes 3",
-			"dateCreated": "11-10-2017",
+			"name": "Connections 1",
+			"dateCreated": "29-12-2017",
 			"dateUpdated": null,
-			"description": "upward propagation in a 2 node system",
+			"description": "Understanding the Diverging and Pass-through type of connection",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_6.md",
 			"lessonNetworkIndices": [4]			
 		}, {
-			"name": "Basic Bayes 3",
-			"dateCreated": "11-10-2017",
+			"name": "Connections 2",
+			"dateCreated": "29-12-2017",
 			"dateUpdated": null,
-			"description": "upward propagation in a 2 node system",
+			"description": "Understanding the Converging type of connection",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_7.md",
 			"lessonNetworkIndices": [7]
 		}, {
-			"name": "Basic Bayes 3",
+			"name": "Overview",
 			"dateCreated": "11-10-2017",
 			"dateUpdated": null,
-			"description": "upward propagation in a 2 node system",
+			"description": "Looking back and the grander perspective",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_8.md"
 		}, {
-			"name": "Independence 1",
-			"dateCreated": "01-01-2018",
+			"name": "Back to numbers",
+			"dateCreated": "03-12-2018",
 			"dateUpdated": null,
-			"description": "Independence relationships in a bayesian network",
+			"description": "Invoking probability formalism with our new knowledge",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_9.md"
 		}],		
 		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_1.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_4.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_5.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_6.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_7.json"],
