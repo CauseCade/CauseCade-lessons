@@ -58,13 +58,15 @@
 			"dateCreated": "11-10-2017",
 			"dateUpdated": null,
 			"description": "understanding the use of bayes",
-			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_1.md"
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_1.md",
+			"lessonNetworkIndices": [1]
 		}, {
 			"name": "Basic Bayes 2",
 			"dateCreated": "11-10-2017",
 			"dateUpdated": null,
 			"description": "downward propagation in a 2 node system",
-			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_2.md"
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_2.md",
+			"lessonNetworkIndices": [2]
 		}, {
 			"name": "Basic Bayes 3",
 			"dateCreated": "11-10-2017",
@@ -72,13 +74,49 @@
 			"description": "upward propagation in a 2 node system",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_3.md"
 		}, {
-			"name": "Independence 1",
+			"name": "Basic Bayes 3",
 			"dateCreated": "11-10-2017",
 			"dateUpdated": null,
+			"description": "upward propagation in a 2 node system",
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_4.md",
+			"lessonNetworkIndices": [3]
+		}, {
+			"name": "Basic Bayes 3",
+			"dateCreated": "11-10-2017",
+			"dateUpdated": null,
+			"description": "upward propagation in a 2 node system",
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_5.md",
+			"lessonNetworkIndices": [6]
+		}, {
+			"name": "Basic Bayes 3",
+			"dateCreated": "11-10-2017",
+			"dateUpdated": null,
+			"description": "upward propagation in a 2 node system",
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_6.md",
+			"lessonNetworkIndices": [4]			
+		}, {
+			"name": "Basic Bayes 3",
+			"dateCreated": "11-10-2017",
+			"dateUpdated": null,
+			"description": "upward propagation in a 2 node system",
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_7.md",
+			"lessonNetworkIndices": [7]
+		}, {
+			"name": "Basic Bayes 3",
+			"dateCreated": "11-10-2017",
+			"dateUpdated": null,
+			"description": "upward propagation in a 2 node system",
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_8.md"
+		}, {
+			"name": "Independence 1",
+			"dateCreated": "01-01-2018",
+			"dateUpdated": null,
 			"description": "Independence relationships in a bayesian network",
-			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_4.md"
-		}],
-		"description": null,
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_9.md"
+		}],		
+		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_1.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_4.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_5.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_6.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_7.json"],
+		"networkNameList": ["Rainy_Day", "AbstractNetwork_1","PassingCourses","Wintertime","Coin Toss","Network Connection Types","Pet Peeve"],
+		"description": "the main course of this website. Explains the essential concept of bayesian networks.",
 		"category": null
 	}, {
 		"name": "Compared to other Networks",
