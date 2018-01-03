@@ -27,14 +27,12 @@ true or false (or rain & no rain if you prefer). The chance for A0 (rain) can na
 
 Below the probability of the node, we see the node status. The first property of a node is whether this node is a *root node*. 
 One intuitive way of interpreting this property is viewing it as the node having parents (i.e. a node with a direction pointing
-towards it) or not. <expand>
+towards it) or not. This is nothing fundamental, and it can easily be inferred from looking at the network. 
   
 The second property we see here is whether the node has evidence. When I say evidence, I mean that an observation has been made 
 about the state of this node. In the rain example, it would be (for example) observing that, unfortunately, 
 it is raining outside. Such an observation can be made about *any* node in the network (as each are random variables). 
-In practice, it is often that the random variable of interest cannot directly be observed, or is yet to (maybe) occur. 
-It should be noted that while my example used a ´hard´ observation (i.e. P(rain)=1,P(no rain)=0), it is possible to make 
-an observation that does not have one state at P=1 and all the others at P=0. <We will view this in a later lesson>. You
+In practice, it is often that the random variable of interest cannot directly be observed, or is yet to (maybe) occur. You
 may wonder how an observation may affect a more complex network, but rest assured, we will cover this in our lesson on 
 independence.
   
