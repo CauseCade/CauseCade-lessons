@@ -22,7 +22,7 @@
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Tutorial_Pt_3.md"
 		}],
 		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_1.json", "https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_2.json"],
-		"networkNameList": ["test1", "test2"],
+		"networkNameList": ["Animals", "CarStarts"],
 		"description": null,
 		"category": null
 	}, {
