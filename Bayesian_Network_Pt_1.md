@@ -1,5 +1,3 @@
-*this lesson is not complete yet*
-
 #### From humble beginnings
 
 To start our journey, we will lay out the simplest network we can imagine: the two random variable network (save for the 1 
