@@ -7,7 +7,8 @@ random variable case - but it should be obvious we cannot use Bayes' rule in thi
 Firstly, load up the example network for this lesson. As you can see, the network is a simple as it gets; just 2 nodes and a
 single link connecting them. For now, I have called them node A and node B, to avoid any semantic or intuitive problems. The
 abstract nature of the names will hopefully help you focus on the concept behind it. A little side note: in probabilistic
-terms: a node in the network represents a random variable, and a link means these random variables are not independent. 
+terms: a node in the network represents a random variable, and a link means these random variables are not independent.
+(more on this later)
 
 Let's tackle a question that may have arisen by now: in our derivation of Bayes' rule, we did not specify a 'directionality' of 
 random variables, yet here we observe an arrow pointing from A to B. We will come back to this point in a later lesson, so 
