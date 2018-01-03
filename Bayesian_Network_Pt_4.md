@@ -25,7 +25,9 @@ P(B&cap;A)=P(B) * P(A)
 #### Relationships between multiple nodes
 
 The relationship between nodes when we have more than 2 random variables may not be so simple. Below I have listed some examples
-that demonstrate some of the phenomena we will discuss in the next sections. Further clarifications will follow in the next lessons.
+that demonstrate some of the phenomena we will discuss in the next sections. (See the lesson on conditional independence)
+Further clarifications will follow in the next lessons. 
+
 [ex1] Let's take as an example the following three random variables:
 
 1. you completed a bonus assignment
