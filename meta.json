@@ -44,7 +44,7 @@
 		"description": null,
 		"category": null
 	}, {
-		"name": "bayes",
+		"name": "Bayesian Networks",
 		"dateCreated": "11-10-2017",
 		"lessonList": [{
 			"name": "Preface",
@@ -118,6 +118,12 @@
 		"description": "the main course of this website. Explains the essential concept of bayesian networks.",
 		"category": null
 	}, {
+		"name": "Learning From Data",
+		"dateCreated": "03-01-2018",
+		"lessonList": [],
+		"description": null,
+		"category": null
+	},{
 		"name": "Compared to other Networks",
 		"dateCreated": "03-12-2017",
 		"lessonList": [],
