@@ -1,13 +1,9 @@
-*this lesson is not yet completed*
-
 #### Basic Bayes
-
-<(Load up example network)>
 
 Last lesson we met our first, admittedly very boring, bayesian network. We learned how to view a few basic properties and 
 how to read out what the chances are of each state for each node (random variable). One thing that was missing, as you may have 
 have noted, was any application of Bayes' rule! Don't worry, we will get to that right away. First, make sure the example 
-network for lesson 1&2 is loaded. 
+network for this lesson is loaded. 
 
 As A and B are not independent, the probability of B given a certain state of A (which we will call P(B|A) - 'probability of B 
 given A') is different from B without any knowledge of A. This is what we derived in the previous course. In this case we will 
@@ -37,7 +33,7 @@ Okay, that's great and all, but what about that P(B) and P(A)? If we only specif
 If everything has gone well, your answer should match that of the network. Let's now have a look at how we would get to that P(A) that was just given in the previous exercise. As you can see, node A has no arrows pointing towards it (i.e. it is a *root node*). For such  a node we have a so-called **prior probability** or prior for short. One definition of this is as follows: "a probability as assessed **before making reference to certain relevant observations**, especially subjectively or on the assumption that all possible outcomes be given the same probability." I have highlighted the key part for you. 
 For a root node, we specify this prior probability. It can be viewed as a guess of what the probabilities are. In the case of the weather it may for example reflect the observed frequency of rain in a given time period. Maybe we know that in february, the chance of rain on any day is 23%. We could then set this as a prior probability. 
 <(I like to see this prior probability as a consequence of a pseudo-node that is above each root node that reflects the universe. So you would have [Universe->]Rain->Garden is wet. I wouldnt think too much of this, but for me it can be helpful to visualise it as such.)>
-For consistency's sake, we do still specify a CPT for a root node <(Why don't you check it our for node A?)>. Looking at this CPT, you should see it is the identity matrix (1's on the diagonal, 0 elsewhere). This does not reflect anything fundamental, it is just so that we can efficiently set P(B) by multiplying our prior probability with said CPT. This is particular to this implementation, and we may just as well specify our prior directly.
+For consistency's sake, we do still specify a CPT for a root node Why don't you check it our for node A? Looking at this CPT, you should see it is the identity matrix (1's on the diagonal, 0 elsewhere). This does not reflect anything fundamental, it is just so that we can efficiently set P(B) by multiplying our prior probability with said CPT. This is particular to this implementation, and we may just as well specify our prior directly.
 
 *[Ex.] Let's try changing the prior probability for A and see how B changes; try computing this by hand first and see if you answer matches what the network devices. Tip: it should be very similar to the previous exercise*
 
