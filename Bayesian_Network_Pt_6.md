@@ -30,7 +30,7 @@ So, let's look at what we saw. For both diverging and pass-through connections, 
 the other ones become more likely to be high as well (under the specified relation). In both cases this was because we
 could reason that either the other node is an effect of the node we know the state of (and if we know the cause we must know the effect,
 right?) or the other node is a cause of the node that we know the state of (in which case we can deduce the state the cause must
-have been in *in order for us to see this effect*). Looking at it that way, this seems fairly intuitive,
+have been in *in order for us to see this effect*). Looking at it that way,
 is it perhaps always true for any causal relation? No - we will see next lesson that this does not hold for converging connections,
 but for now let's leave that for later.
 
