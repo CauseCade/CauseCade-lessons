@@ -20,8 +20,8 @@ deterministic events) was, and then figured C from there (using [1]). Similar re
 
 
 Now, let us look at the pass-through case, and see if this is any different. We have A > B > C as a relationship.
-We propose [2] that High A causes high B, high B causes high C. So, if we have high A, we have high B and consequentiall high C. What if 
-we only know B is high (nothing known about A,C)? Well, it should apparent C is high. We can also reason that if B is high, this must be 
+We propose [2] that High A causes high B, high B causes high C. So, if we have high A, we have high B and consequentially high C. What if 
+we only know B is high (nothing known about A,C)? Well, it should be apparent C is high. We can also reason that if B is high, this must be 
 because the cause (A) is also high. Thus, A must also be High. If we only know C is high, then we reason twice about the cause and find 
 that A and B must both be high also. 
 
