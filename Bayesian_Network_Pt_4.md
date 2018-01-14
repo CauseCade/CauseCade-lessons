@@ -44,7 +44,7 @@ relationship between doing the bonus assignment and studying hard for the test.
 
 
 Note that here that the 3 random variables are not all independent (i.e. P({1}) * P({2}) * P({3}) =/= P({1}&cap;{2}&cap;{3}).
-So, while 1 and 2 may be independent, the whole network is not.
+So, while 1 and 2 may be independent (from eachother), the whole network is not.
 
 [ex2] Let's look at another example. We have the following three random variables:
 
