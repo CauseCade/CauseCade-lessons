@@ -135,11 +135,11 @@
 		"dateCreated": "03-12-2017",
 		"lessonList": [],
 		"description": null,
-		"category": null,
-		"dateCreated": "03-12-2017",
-		"lessonList": [],
+		"category": null
 	}, {
 		"name": "Applications in biology",
+		"dateCreated": "03-12-2017",
+		"lessonList": [],	
 		"description": null,
 		"category": null
 	}]
