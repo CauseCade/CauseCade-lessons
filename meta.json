@@ -107,11 +107,17 @@
 			"description": "Looking back and the grander perspective",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_8.md"
 		}, {
+			"name": "D-Separation",
+			"dateCreated": "11-10-2017",
+			"dateUpdated": null,
+			"description": "Independencies in large networks",
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_9.md"
+		}, {
 			"name": "Back to numbers",
 			"dateCreated": "03-12-2018",
 			"dateUpdated": null,
 			"description": "Invoking probability formalism with our new knowledge",
-			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_9.md"
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_10.md"
 		}],		
 		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_1.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_4.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_5.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_6.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_7.json"],
 		"networkNameList": ["Rainy_Day", "AbstractNetwork_1","PassingCourses","Wintertime","Coin Toss","Network Connection Types","Pet Peeve"],
