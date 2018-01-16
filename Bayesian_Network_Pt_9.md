@@ -60,3 +60,6 @@ the probability distribution (i.e. the probabilities of each state) of the other
 the two nodes are independent. Next lesson, we will get back to our probability formalism and actually put the qualitative
 arguements made here into numbers. Doing so will enable us to describe the concepts mentioned here in a quantitative manner,
 and if you understood everything up to now, putting in the numbers should be a breeze.
+
+*The example network for this lesson is based off the excellent example network from the course CPSC522/Bayesian Networks
+of the University of British Columbia.*
