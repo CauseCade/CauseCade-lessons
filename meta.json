@@ -21,8 +21,8 @@
 			"description": "Learning to manipulate individual nodes",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Tutorial_Pt_3.md"
 		}],
-		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_1.json", "https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_10.json"],
-		"networkNameList": ["Animals", "CarStarts","tester","Pedigree"],
+		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_1.json", "https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_10.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_1.json"],
+		"networkNameList": ["Animals", "CarStarts","tester","Pedigree","Lunchtime"],
 		"description": null,
 		"category": null
 	}, {
