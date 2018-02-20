@@ -53,4 +53,4 @@ recommend doing it by hand.
 
 The core thing to take away is that we can write a JPD in terms of a CPD. This CPD can be 'compacted' using conditional (in)dependencies
 which can be read from the bayesian network structure. This CPD can then be used to calculate any value of interest, as it is equivalent
-to the JPD. (which, remember, is the 
+to the JPD. 
