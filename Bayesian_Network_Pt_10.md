@@ -33,5 +33,24 @@ So let's have a look at what remains of our CPD expression: P(I & M & E & S & C)
 a lot less scary than the more general expression above. Note that we were able to quickly read the conditional
 independence conditions from looking at the bayesian network structure. Below we will do some calculations with this.
 
-#### Inference
+#### Calculations
 
+Let's now suppose we wish to know what the probability of C(ell protrusions) is. We can use the law of total probability to find
+P(C)<nobr>=&Sigma;[states of all variables not C] P(I & M & E & S & C)</nobr>, which we can also write in terms of CPD:<nobr>=&Sigma;
+[states of all variables not C]P(I|M)P(C|M)P(M|S & E)P(S)P(E)</nobr>. Luckily, as we have the full bayesian network, we know the 
+parameters of the CPDs and the states of each node. Thus, in this case P(C) will be the following:
+
+P(C=present)=&Sigma;[#M]&Sigma;[#E]&Sigma;[#S]&Sigma;[#I]P(I|M)P(**C=present**|M)P(M|S & E)P(S)P(E),
+with #E referring to the states of variable E.
+(E.g. for C, #C = {present,absent} (2 states)). We may wish to rearrange the expression for more efficient computation:
+&Sigma;[#M]P(**C=present**|M)&Sigma;[#I] P(I|M)&Sigma;[#S] P(S)&Sigma;[#E]P(M|S & E)P(E). In numbers,
+taking values from the CPD (which can be viewed by going to edit > view/Edit CPT) we obtain:
+
+Doing only one particular value for the summands: M=true,S=true,I=high,E=high we find
+P(I|M)P(**C=present**|M)P(M|S & E)P(S)P(E)=0.95 * 0.9 * 0.5 * 0.5 * 0.3 = 0.064125. This would have to be comepute for each 
+combination of M,E,I,S and summed to obtain the final P(C). This is just the law of total probability in action. I would not 
+recommend doing it by hand. 
+
+The core thing to take away is that we can write a JPD in terms of a CPD. This CPD can be 'compacted' using conditional (in)dependencies
+which can be read from the bayesian network structure. This CPD can then be used to calculate any value of interest, as it is equivalent
+to the JPD. (which, remember, is the 
