@@ -17,8 +17,7 @@ In the middle of this row, we find the network name input. When you load a netwo
 Finally, on the far right, we find the network display tabs. These control what the **network canvas** displays. As of now, only one mode is available (Network), so you can ignore this.
 
 ##### Variable Viewer
-
-Then, moving one layer down we find a set of tabs with labels 1) overview, 2) details, and 3) edit. These tabs will control what is displayed in the **variable viewer** section. As they are tabs, only one can be selected at a time. If you press them (try clicking details), you will see that nothing happens. This is because in order for the **variable viewer** to be displayed, you must have a variable selected. We will go into more detail on this in the next lesson. 
+ 
 This section will take up the left third of the screen when a variable is selected. As mentioned before, it can be in one of three different modes. (overview,details,edit) These sections will be important to inspect the network and to go from a network depiction to a quantitative representation.
 
 ##### Network Canvas
