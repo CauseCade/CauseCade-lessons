@@ -21,8 +21,8 @@
 			"description": "Learning to manipulate individual nodes",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Tutorial_Pt_3.md"
 		}],
-		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_1.json", "https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_10.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_4.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_5.json"],
-		"networkNameList": ["Animals", "CarStarts","tester","Pedigree","Lunchtime","Cell Migration"],
+		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_1.json", "https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_10.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_4.json"],
+		"networkNameList": ["Animals", "CarStarts","tester","Pedigree","Lunchtime"],
 		"description": null,
 		"category": null
 	}, {
@@ -120,9 +120,10 @@
 			"dateUpdated": null,
 			"description": "Invoking probability formalism with our new knowledge",
 			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_10.md"
+			"lessonNetworkIndices": [10]
 		}],		
-		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_1.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_8.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_4.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_5.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_6.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_7.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_9.json"],
-		"networkNameList": ["Rainy_Day", "AbstractNetwork_1","Fungal Fridge","PassingCourses","Wintertime","Coin Toss","Network Connection Types","Pet Peeve","Workload"],
+		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_1.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_8.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_4.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_5.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_6.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_7.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_9.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_5.json"],
+		"networkNameList": ["Rainy_Day", "AbstractNetwork_1","Fungal Fridge","PassingCourses","Wintertime","Coin Toss","Network Connection Types","Pet Peeve","Workload","Cell Migration"],
 		"description": "the main course of this website. Explains the essential concept of bayesian networks.",
 		"category": null
 	}, {
