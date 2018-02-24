@@ -119,7 +119,7 @@
 			"dateCreated": "03-12-2018",
 			"dateUpdated": null,
 			"description": "Invoking probability formalism with our new knowledge",
-			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_10.md"
+			"lessonURL": "https://raw.githubusercontent.com/NemoAndrea/CauseCade-lessons/master/Bayesian_Network_Pt_10.md",
 			"lessonNetworkIndices": [10]
 		}],		
 		"networkUrlList": ["https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_1.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_2.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_8.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_3.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_4.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_5.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_6.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_7.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/bayes_9.json","https://raw.githubusercontent.com/CauseCade/CauseCade-networks/master/miscellaneous_5.json"],
