@@ -1,4 +1,4 @@
 <span id='welcome_news_container'>
-<span id='welcome_news_title'>News (31 december 2017)</span>
-<p> CauseCade will be used for a university course, stay tuned for more info (blogpost)! </p>
+<span id='welcome_news_title'>News (September 2018)</span>
+<p> There is no current development on this project. Contact for questions </p>
 </span>
